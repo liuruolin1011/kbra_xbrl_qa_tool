@@ -1,0 +1,44 @@
+fields:
+  TotalAssets:
+    tags:
+      - us-gaap:Assets
+    context: instant
+    qa_group: BalanceSheet
+
+  TotalLiabilities:
+    tags:
+      - us-gaap:Liabilities
+    context: instant
+    qa_group: BalanceSheet
+
+  TotalEquity:
+    tags:
+      - us-gaap:StockholdersEquity
+      - us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest
+    context: instant
+    qa_group: BalanceSheet
+
+  Revenue:
+    tags:
+      - us-gaap:Revenues
+      - us-gaap:SalesRevenueNet
+    context: duration
+    qa_group: IncomeStatement
+
+  NetIncome:
+    tags:
+      - us-gaap:NetIncomeLoss
+    context: duration
+    qa_group: IncomeStatement
+
+  OperatingCashFlow:
+    tags:
+      - us-gaap:NetCashProvidedByUsedInOperatingActivities
+    context: duration
+    qa_group: CashFlowStatement
+
+  CapitalExpenditures:
+    tags:
+      - us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
+    context: duration
+    qa_group: CashFlowStatement

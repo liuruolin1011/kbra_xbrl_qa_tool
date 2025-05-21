@@ -1,0 +1,461 @@
+2025-05-20 21:47:11,068 - INFO - Start processing file: filings/trv_20221231_10-K.xml for ticker: trv
+2025-05-20 21:47:11,068 - WARNING - Mapping file for ticker 'trv' not found at mapping/trv.yaml
+2025-05-20 21:47:11,068 - ERROR - ❌ Failed to process filings/trv_20221231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:47:11,068 - INFO - Start processing file: filings/aapl_20220924_10-K.xml for ticker: aapl
+2025-05-20 21:47:11,068 - WARNING - Mapping file for ticker 'aapl' not found at mapping/aapl.yaml
+2025-05-20 21:47:11,068 - ERROR - ❌ Failed to process filings/aapl_20220924_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:47:11,068 - INFO - Start processing file: filings/met_20221231_10-K.xml for ticker: met
+2025-05-20 21:47:11,068 - WARNING - Mapping file for ticker 'met' not found at mapping/met.yaml
+2025-05-20 21:47:11,068 - ERROR - ❌ Failed to process filings/met_20221231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:47:11,068 - INFO - Start processing file: filings/gs_20221231_10-k.xml for ticker: gs
+2025-05-20 21:47:11,068 - WARNING - Mapping file for ticker 'gs' not found at mapping/gs.yaml
+2025-05-20 21:47:11,068 - ERROR - ❌ Failed to process filings/gs_20221231_10-k.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:47:11,068 - INFO - Start processing file: filings/trv_20241231_10-K.xml for ticker: trv
+2025-05-20 21:47:11,068 - WARNING - Mapping file for ticker 'trv' not found at mapping/trv.yaml
+2025-05-20 21:47:11,068 - ERROR - ❌ Failed to process filings/trv_20241231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:47:11,068 - INFO - Start processing file: filings/trv_20231231_10-K.xml for ticker: trv
+2025-05-20 21:47:11,068 - WARNING - Mapping file for ticker 'trv' not found at mapping/trv.yaml
+2025-05-20 21:47:11,068 - ERROR - ❌ Failed to process filings/trv_20231231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:47:11,068 - INFO - Start processing file: filings/met_20241231_10-K.xml for ticker: met
+2025-05-20 21:47:11,068 - WARNING - Mapping file for ticker 'met' not found at mapping/met.yaml
+2025-05-20 21:47:11,068 - ERROR - ❌ Failed to process filings/met_20241231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:47:11,068 - INFO - Start processing file: filings/met_20231231_10-K.xml for ticker: met
+2025-05-20 21:47:11,068 - WARNING - Mapping file for ticker 'met' not found at mapping/met.yaml
+2025-05-20 21:47:11,068 - ERROR - ❌ Failed to process filings/met_20231231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:47:11,069 - INFO - Start processing file: filings/gs_20241231_10-K.xml for ticker: gs
+2025-05-20 21:47:11,069 - WARNING - Mapping file for ticker 'gs' not found at mapping/gs.yaml
+2025-05-20 21:47:11,069 - ERROR - ❌ Failed to process filings/gs_20241231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:47:11,069 - INFO - Start processing file: filings/gs_20231231_10-K.xml for ticker: gs
+2025-05-20 21:47:11,069 - WARNING - Mapping file for ticker 'gs' not found at mapping/gs.yaml
+2025-05-20 21:47:11,069 - ERROR - ❌ Failed to process filings/gs_20231231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:47:11,069 - INFO - Start processing file: filings/spg_20241231_10-K.xml for ticker: spg
+2025-05-20 21:47:11,069 - WARNING - Mapping file for ticker 'spg' not found at mapping/spg.yaml
+2025-05-20 21:47:11,069 - ERROR - ❌ Failed to process filings/spg_20241231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:47:11,069 - INFO - Start processing file: filings/spg_20231231_10-K.xml for ticker: spg
+2025-05-20 21:47:11,069 - WARNING - Mapping file for ticker 'spg' not found at mapping/spg.yaml
+2025-05-20 21:47:11,069 - ERROR - ❌ Failed to process filings/spg_20231231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:47:11,069 - INFO - Start processing file: filings/aapl_20240928_10-K.xml for ticker: aapl
+2025-05-20 21:47:11,069 - WARNING - Mapping file for ticker 'aapl' not found at mapping/aapl.yaml
+2025-05-20 21:47:11,069 - ERROR - ❌ Failed to process filings/aapl_20240928_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:47:11,069 - INFO - Start processing file: filings/nvda_20250126_10-K.xml for ticker: nvda
+2025-05-20 21:47:11,069 - WARNING - Mapping file for ticker 'nvda' not found at mapping/nvda.yaml
+2025-05-20 21:47:11,069 - ERROR - ❌ Failed to process filings/nvda_20250126_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:47:11,069 - INFO - Start processing file: filings/spg_20221231_10-K.xml for ticker: spg
+2025-05-20 21:47:11,069 - WARNING - Mapping file for ticker 'spg' not found at mapping/spg.yaml
+2025-05-20 21:47:11,069 - ERROR - ❌ Failed to process filings/spg_20221231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:47:11,069 - INFO - Start processing file: filings/f_20231231_10-K.xml for ticker: f
+2025-05-20 21:47:11,069 - WARNING - Mapping file for ticker 'f' not found at mapping/f.yaml
+2025-05-20 21:47:11,069 - ERROR - ❌ Failed to process filings/f_20231231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:47:11,069 - INFO - Start processing file: filings/f_20241231_10-K.xml for ticker: f
+2025-05-20 21:47:11,069 - WARNING - Mapping file for ticker 'f' not found at mapping/f.yaml
+2025-05-20 21:47:11,069 - ERROR - ❌ Failed to process filings/f_20241231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:47:11,069 - INFO - Start processing file: filings/aapl_20230930_10-K.xml for ticker: aapl
+2025-05-20 21:47:11,069 - WARNING - Mapping file for ticker 'aapl' not found at mapping/aapl.yaml
+2025-05-20 21:47:11,069 - ERROR - ❌ Failed to process filings/aapl_20230930_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:47:11,069 - INFO - Start processing file: filings/nvda_20240128_10-K.xml for ticker: nvda
+2025-05-20 21:47:11,069 - WARNING - Mapping file for ticker 'nvda' not found at mapping/nvda.yaml
+2025-05-20 21:47:11,069 - ERROR - ❌ Failed to process filings/nvda_20240128_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:47:11,069 - INFO - Start processing file: filings/f_20221231_10-K.xml for ticker: f
+2025-05-20 21:47:11,069 - WARNING - Mapping file for ticker 'f' not found at mapping/f.yaml
+2025-05-20 21:47:11,069 - ERROR - ❌ Failed to process filings/f_20221231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:47:11,069 - INFO - Start processing file: filings/nvda_20230129_10-K.xml for ticker: nvda
+2025-05-20 21:47:11,069 - WARNING - Mapping file for ticker 'nvda' not found at mapping/nvda.yaml
+2025-05-20 21:47:11,069 - ERROR - ❌ Failed to process filings/nvda_20230129_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:48:14,794 - INFO - Start processing file: filings/trv_20221231_10-K.xml for ticker: trv
+2025-05-20 21:48:14,794 - WARNING - Mapping file for ticker 'trv' not found at mapping/trv.yaml
+2025-05-20 21:48:14,794 - ERROR - ❌ Failed to process filings/trv_20221231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:48:14,794 - INFO - Start processing file: filings/aapl_20220924_10-K.xml for ticker: aapl
+2025-05-20 21:48:14,794 - WARNING - Mapping file for ticker 'aapl' not found at mapping/aapl.yaml
+2025-05-20 21:48:14,794 - ERROR - ❌ Failed to process filings/aapl_20220924_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:48:14,794 - INFO - Start processing file: filings/met_20221231_10-K.xml for ticker: met
+2025-05-20 21:48:14,794 - WARNING - Mapping file for ticker 'met' not found at mapping/met.yaml
+2025-05-20 21:48:14,794 - ERROR - ❌ Failed to process filings/met_20221231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:48:14,794 - INFO - Start processing file: filings/gs_20221231_10-k.xml for ticker: gs
+2025-05-20 21:48:14,794 - WARNING - Mapping file for ticker 'gs' not found at mapping/gs.yaml
+2025-05-20 21:48:14,794 - ERROR - ❌ Failed to process filings/gs_20221231_10-k.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:48:14,794 - INFO - Start processing file: filings/trv_20241231_10-K.xml for ticker: trv
+2025-05-20 21:48:14,794 - WARNING - Mapping file for ticker 'trv' not found at mapping/trv.yaml
+2025-05-20 21:48:14,794 - ERROR - ❌ Failed to process filings/trv_20241231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:48:14,794 - INFO - Start processing file: filings/trv_20231231_10-K.xml for ticker: trv
+2025-05-20 21:48:14,794 - WARNING - Mapping file for ticker 'trv' not found at mapping/trv.yaml
+2025-05-20 21:48:14,794 - ERROR - ❌ Failed to process filings/trv_20231231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:48:14,794 - INFO - Start processing file: filings/met_20241231_10-K.xml for ticker: met
+2025-05-20 21:48:14,794 - WARNING - Mapping file for ticker 'met' not found at mapping/met.yaml
+2025-05-20 21:48:14,794 - ERROR - ❌ Failed to process filings/met_20241231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:48:14,794 - INFO - Start processing file: filings/met_20231231_10-K.xml for ticker: met
+2025-05-20 21:48:14,794 - WARNING - Mapping file for ticker 'met' not found at mapping/met.yaml
+2025-05-20 21:48:14,794 - ERROR - ❌ Failed to process filings/met_20231231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:48:14,794 - INFO - Start processing file: filings/gs_20241231_10-K.xml for ticker: gs
+2025-05-20 21:48:14,794 - WARNING - Mapping file for ticker 'gs' not found at mapping/gs.yaml
+2025-05-20 21:48:14,795 - ERROR - ❌ Failed to process filings/gs_20241231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:48:14,795 - INFO - Start processing file: filings/gs_20231231_10-K.xml for ticker: gs
+2025-05-20 21:48:14,795 - WARNING - Mapping file for ticker 'gs' not found at mapping/gs.yaml
+2025-05-20 21:48:14,795 - ERROR - ❌ Failed to process filings/gs_20231231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:48:14,795 - INFO - Start processing file: filings/spg_20241231_10-K.xml for ticker: spg
+2025-05-20 21:48:14,795 - WARNING - Mapping file for ticker 'spg' not found at mapping/spg.yaml
+2025-05-20 21:48:14,795 - ERROR - ❌ Failed to process filings/spg_20241231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:48:14,795 - INFO - Start processing file: filings/spg_20231231_10-K.xml for ticker: spg
+2025-05-20 21:48:14,795 - WARNING - Mapping file for ticker 'spg' not found at mapping/spg.yaml
+2025-05-20 21:48:14,795 - ERROR - ❌ Failed to process filings/spg_20231231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:48:14,795 - INFO - Start processing file: filings/aapl_20240928_10-K.xml for ticker: aapl
+2025-05-20 21:48:14,795 - WARNING - Mapping file for ticker 'aapl' not found at mapping/aapl.yaml
+2025-05-20 21:48:14,795 - ERROR - ❌ Failed to process filings/aapl_20240928_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:48:14,795 - INFO - Start processing file: filings/nvda_20250126_10-K.xml for ticker: nvda
+2025-05-20 21:48:14,795 - WARNING - Mapping file for ticker 'nvda' not found at mapping/nvda.yaml
+2025-05-20 21:48:14,795 - ERROR - ❌ Failed to process filings/nvda_20250126_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:48:14,795 - INFO - Start processing file: filings/spg_20221231_10-K.xml for ticker: spg
+2025-05-20 21:48:14,795 - WARNING - Mapping file for ticker 'spg' not found at mapping/spg.yaml
+2025-05-20 21:48:14,795 - ERROR - ❌ Failed to process filings/spg_20221231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:48:14,795 - INFO - Start processing file: filings/f_20231231_10-K.xml for ticker: f
+2025-05-20 21:48:14,795 - WARNING - Mapping file for ticker 'f' not found at mapping/f.yaml
+2025-05-20 21:48:14,795 - ERROR - ❌ Failed to process filings/f_20231231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:48:14,795 - INFO - Start processing file: filings/f_20241231_10-K.xml for ticker: f
+2025-05-20 21:48:14,795 - WARNING - Mapping file for ticker 'f' not found at mapping/f.yaml
+2025-05-20 21:48:14,795 - ERROR - ❌ Failed to process filings/f_20241231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:48:14,795 - INFO - Start processing file: filings/aapl_20230930_10-K.xml for ticker: aapl
+2025-05-20 21:48:14,795 - WARNING - Mapping file for ticker 'aapl' not found at mapping/aapl.yaml
+2025-05-20 21:48:14,795 - ERROR - ❌ Failed to process filings/aapl_20230930_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:48:14,795 - INFO - Start processing file: filings/nvda_20240128_10-K.xml for ticker: nvda
+2025-05-20 21:48:14,795 - WARNING - Mapping file for ticker 'nvda' not found at mapping/nvda.yaml
+2025-05-20 21:48:14,795 - ERROR - ❌ Failed to process filings/nvda_20240128_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:48:14,795 - INFO - Start processing file: filings/f_20221231_10-K.xml for ticker: f
+2025-05-20 21:48:14,795 - WARNING - Mapping file for ticker 'f' not found at mapping/f.yaml
+2025-05-20 21:48:14,795 - ERROR - ❌ Failed to process filings/f_20221231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:48:14,795 - INFO - Start processing file: filings/nvda_20230129_10-K.xml for ticker: nvda
+2025-05-20 21:48:14,795 - WARNING - Mapping file for ticker 'nvda' not found at mapping/nvda.yaml
+2025-05-20 21:48:14,795 - ERROR - ❌ Failed to process filings/nvda_20230129_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:49:52,256 - INFO - Start processing file: filings/trv_20221231_10-K.xml for ticker: trv
+2025-05-20 21:49:52,257 - WARNING - Mapping file for ticker 'trv' not found at mapping/trv.yaml
+2025-05-20 21:49:52,257 - ERROR - ❌ Failed to process filings/trv_20221231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:49:52,257 - INFO - Start processing file: filings/aapl_20220924_10-K.xml for ticker: aapl
+2025-05-20 21:49:52,257 - WARNING - Mapping file for ticker 'aapl' not found at mapping/aapl.yaml
+2025-05-20 21:49:52,257 - ERROR - ❌ Failed to process filings/aapl_20220924_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:49:52,257 - INFO - Start processing file: filings/met_20221231_10-K.xml for ticker: met
+2025-05-20 21:49:52,257 - WARNING - Mapping file for ticker 'met' not found at mapping/met.yaml
+2025-05-20 21:49:52,257 - ERROR - ❌ Failed to process filings/met_20221231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:49:52,257 - INFO - Start processing file: filings/gs_20221231_10-k.xml for ticker: gs
+2025-05-20 21:49:52,257 - WARNING - Mapping file for ticker 'gs' not found at mapping/gs.yaml
+2025-05-20 21:49:52,257 - ERROR - ❌ Failed to process filings/gs_20221231_10-k.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:49:52,257 - INFO - Start processing file: filings/trv_20241231_10-K.xml for ticker: trv
+2025-05-20 21:49:52,257 - WARNING - Mapping file for ticker 'trv' not found at mapping/trv.yaml
+2025-05-20 21:49:52,257 - ERROR - ❌ Failed to process filings/trv_20241231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:49:52,257 - INFO - Start processing file: filings/trv_20231231_10-K.xml for ticker: trv
+2025-05-20 21:49:52,257 - WARNING - Mapping file for ticker 'trv' not found at mapping/trv.yaml
+2025-05-20 21:49:52,257 - ERROR - ❌ Failed to process filings/trv_20231231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:49:52,257 - INFO - Start processing file: filings/met_20241231_10-K.xml for ticker: met
+2025-05-20 21:49:52,257 - WARNING - Mapping file for ticker 'met' not found at mapping/met.yaml
+2025-05-20 21:49:52,257 - ERROR - ❌ Failed to process filings/met_20241231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:49:52,257 - INFO - Start processing file: filings/met_20231231_10-K.xml for ticker: met
+2025-05-20 21:49:52,257 - WARNING - Mapping file for ticker 'met' not found at mapping/met.yaml
+2025-05-20 21:49:52,257 - ERROR - ❌ Failed to process filings/met_20231231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:49:52,257 - INFO - Start processing file: filings/gs_20241231_10-K.xml for ticker: gs
+2025-05-20 21:49:52,257 - WARNING - Mapping file for ticker 'gs' not found at mapping/gs.yaml
+2025-05-20 21:49:52,257 - ERROR - ❌ Failed to process filings/gs_20241231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:49:52,257 - INFO - Start processing file: filings/gs_20231231_10-K.xml for ticker: gs
+2025-05-20 21:49:52,257 - WARNING - Mapping file for ticker 'gs' not found at mapping/gs.yaml
+2025-05-20 21:49:52,257 - ERROR - ❌ Failed to process filings/gs_20231231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:49:52,257 - INFO - Start processing file: filings/spg_20241231_10-K.xml for ticker: spg
+2025-05-20 21:49:52,257 - WARNING - Mapping file for ticker 'spg' not found at mapping/spg.yaml
+2025-05-20 21:49:52,257 - ERROR - ❌ Failed to process filings/spg_20241231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:49:52,257 - INFO - Start processing file: filings/spg_20231231_10-K.xml for ticker: spg
+2025-05-20 21:49:52,257 - WARNING - Mapping file for ticker 'spg' not found at mapping/spg.yaml
+2025-05-20 21:49:52,257 - ERROR - ❌ Failed to process filings/spg_20231231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:49:52,257 - INFO - Start processing file: filings/aapl_20240928_10-K.xml for ticker: aapl
+2025-05-20 21:49:52,257 - WARNING - Mapping file for ticker 'aapl' not found at mapping/aapl.yaml
+2025-05-20 21:49:52,257 - ERROR - ❌ Failed to process filings/aapl_20240928_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:49:52,257 - INFO - Start processing file: filings/nvda_20250126_10-K.xml for ticker: nvda
+2025-05-20 21:49:52,257 - WARNING - Mapping file for ticker 'nvda' not found at mapping/nvda.yaml
+2025-05-20 21:49:52,257 - ERROR - ❌ Failed to process filings/nvda_20250126_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:49:52,257 - INFO - Start processing file: filings/spg_20221231_10-K.xml for ticker: spg
+2025-05-20 21:49:52,257 - WARNING - Mapping file for ticker 'spg' not found at mapping/spg.yaml
+2025-05-20 21:49:52,257 - ERROR - ❌ Failed to process filings/spg_20221231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:49:52,257 - INFO - Start processing file: filings/f_20231231_10-K.xml for ticker: f
+2025-05-20 21:49:52,257 - WARNING - Mapping file for ticker 'f' not found at mapping/f.yaml
+2025-05-20 21:49:52,257 - ERROR - ❌ Failed to process filings/f_20231231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:49:52,257 - INFO - Start processing file: filings/f_20241231_10-K.xml for ticker: f
+2025-05-20 21:49:52,257 - WARNING - Mapping file for ticker 'f' not found at mapping/f.yaml
+2025-05-20 21:49:52,257 - ERROR - ❌ Failed to process filings/f_20241231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:49:52,257 - INFO - Start processing file: filings/aapl_20230930_10-K.xml for ticker: aapl
+2025-05-20 21:49:52,257 - WARNING - Mapping file for ticker 'aapl' not found at mapping/aapl.yaml
+2025-05-20 21:49:52,257 - ERROR - ❌ Failed to process filings/aapl_20230930_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:49:52,257 - INFO - Start processing file: filings/nvda_20240128_10-K.xml for ticker: nvda
+2025-05-20 21:49:52,257 - WARNING - Mapping file for ticker 'nvda' not found at mapping/nvda.yaml
+2025-05-20 21:49:52,257 - ERROR - ❌ Failed to process filings/nvda_20240128_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:49:52,257 - INFO - Start processing file: filings/f_20221231_10-K.xml for ticker: f
+2025-05-20 21:49:52,257 - WARNING - Mapping file for ticker 'f' not found at mapping/f.yaml
+2025-05-20 21:49:52,257 - ERROR - ❌ Failed to process filings/f_20221231_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:49:52,257 - INFO - Start processing file: filings/nvda_20230129_10-K.xml for ticker: nvda
+2025-05-20 21:49:52,257 - WARNING - Mapping file for ticker 'nvda' not found at mapping/nvda.yaml
+2025-05-20 21:49:52,257 - ERROR - ❌ Failed to process filings/nvda_20230129_10-K.xml: No valid mapping file found for ticker/CIK and no default.yaml provided.
+2025-05-20 21:50:34,826 - INFO - Start processing file: filings/trv_20221231_10-K.xml for ticker: trv
+2025-05-20 21:50:34,826 - WARNING - Mapping file for ticker 'trv' not found at mapping/trv.yaml
+2025-05-20 21:50:34,826 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:50:35,281 - INFO - ✅ Successfully processed filings/trv_20221231_10-K.xml, output saved to output/output_trv_20250520_215034.xlsx
+2025-05-20 21:50:35,282 - INFO - Start processing file: filings/aapl_20220924_10-K.xml for ticker: aapl
+2025-05-20 21:50:35,401 - INFO - ✅ Successfully processed filings/aapl_20220924_10-K.xml, output saved to output/output_aapl_20250520_215035.xlsx
+2025-05-20 21:50:35,401 - INFO - Start processing file: filings/met_20221231_10-K.xml for ticker: met
+2025-05-20 21:50:35,401 - WARNING - Mapping file for ticker 'met' not found at mapping/met.yaml
+2025-05-20 21:50:35,401 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:50:36,180 - INFO - ✅ Successfully processed filings/met_20221231_10-K.xml, output saved to output/output_met_20250520_215035.xlsx
+2025-05-20 21:50:36,181 - INFO - Start processing file: filings/gs_20221231_10-k.xml for ticker: gs
+2025-05-20 21:50:36,929 - INFO - ✅ Successfully processed filings/gs_20221231_10-k.xml, output saved to output/output_gs_20250520_215036.xlsx
+2025-05-20 21:50:36,930 - INFO - Start processing file: filings/trv_20241231_10-K.xml for ticker: trv
+2025-05-20 21:50:36,930 - WARNING - Mapping file for ticker 'trv' not found at mapping/trv.yaml
+2025-05-20 21:50:36,930 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:50:37,375 - INFO - ✅ Successfully processed filings/trv_20241231_10-K.xml, output saved to output/output_trv_20250520_215037.xlsx
+2025-05-20 21:50:37,376 - INFO - Start processing file: filings/trv_20231231_10-K.xml for ticker: trv
+2025-05-20 21:50:37,376 - WARNING - Mapping file for ticker 'trv' not found at mapping/trv.yaml
+2025-05-20 21:50:37,376 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:50:37,802 - INFO - ✅ Successfully processed filings/trv_20231231_10-K.xml, output saved to output/output_trv_20250520_215037.xlsx
+2025-05-20 21:50:37,803 - INFO - Start processing file: filings/met_20241231_10-K.xml for ticker: met
+2025-05-20 21:50:37,803 - WARNING - Mapping file for ticker 'met' not found at mapping/met.yaml
+2025-05-20 21:50:37,803 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:50:38,860 - INFO - ✅ Successfully processed filings/met_20241231_10-K.xml, output saved to output/output_met_20250520_215038.xlsx
+2025-05-20 21:50:38,862 - INFO - Start processing file: filings/met_20231231_10-K.xml for ticker: met
+2025-05-20 21:50:38,862 - WARNING - Mapping file for ticker 'met' not found at mapping/met.yaml
+2025-05-20 21:50:38,862 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:50:40,029 - INFO - ✅ Successfully processed filings/met_20231231_10-K.xml, output saved to output/output_met_20250520_215039.xlsx
+2025-05-20 21:50:40,032 - INFO - Start processing file: filings/gs_20241231_10-K.xml for ticker: gs
+2025-05-20 21:50:40,945 - INFO - ✅ Successfully processed filings/gs_20241231_10-K.xml, output saved to output/output_gs_20250520_215040.xlsx
+2025-05-20 21:50:40,946 - INFO - Start processing file: filings/gs_20231231_10-K.xml for ticker: gs
+2025-05-20 21:50:41,665 - INFO - ✅ Successfully processed filings/gs_20231231_10-K.xml, output saved to output/output_gs_20250520_215041.xlsx
+2025-05-20 21:50:41,667 - INFO - Start processing file: filings/spg_20241231_10-K.xml for ticker: spg
+2025-05-20 21:50:41,667 - WARNING - Mapping file for ticker 'spg' not found at mapping/spg.yaml
+2025-05-20 21:50:41,667 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:50:41,970 - INFO - ✅ Successfully processed filings/spg_20241231_10-K.xml, output saved to output/output_spg_20250520_215041.xlsx
+2025-05-20 21:50:41,971 - INFO - Start processing file: filings/spg_20231231_10-K.xml for ticker: spg
+2025-05-20 21:50:41,971 - WARNING - Mapping file for ticker 'spg' not found at mapping/spg.yaml
+2025-05-20 21:50:41,971 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:50:42,255 - INFO - ✅ Successfully processed filings/spg_20231231_10-K.xml, output saved to output/output_spg_20250520_215042.xlsx
+2025-05-20 21:50:42,256 - INFO - Start processing file: filings/aapl_20240928_10-K.xml for ticker: aapl
+2025-05-20 21:50:42,351 - INFO - ✅ Successfully processed filings/aapl_20240928_10-K.xml, output saved to output/output_aapl_20250520_215042.xlsx
+2025-05-20 21:50:42,351 - INFO - Start processing file: filings/nvda_20250126_10-K.xml for ticker: nvda
+2025-05-20 21:50:42,351 - WARNING - Mapping file for ticker 'nvda' not found at mapping/nvda.yaml
+2025-05-20 21:50:42,351 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:50:42,487 - INFO - ✅ Successfully processed filings/nvda_20250126_10-K.xml, output saved to output/output_nvda_20250520_215042.xlsx
+2025-05-20 21:50:42,487 - INFO - Start processing file: filings/spg_20221231_10-K.xml for ticker: spg
+2025-05-20 21:50:42,487 - WARNING - Mapping file for ticker 'spg' not found at mapping/spg.yaml
+2025-05-20 21:50:42,487 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:50:42,760 - INFO - ✅ Successfully processed filings/spg_20221231_10-K.xml, output saved to output/output_spg_20250520_215042.xlsx
+2025-05-20 21:50:42,761 - INFO - Start processing file: filings/f_20231231_10-K.xml for ticker: f
+2025-05-20 21:50:42,761 - WARNING - Mapping file for ticker 'f' not found at mapping/f.yaml
+2025-05-20 21:50:42,761 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:50:43,154 - INFO - ✅ Successfully processed filings/f_20231231_10-K.xml, output saved to output/output_f_20250520_215042.xlsx
+2025-05-20 21:50:43,155 - INFO - Start processing file: filings/f_20241231_10-K.xml for ticker: f
+2025-05-20 21:50:43,155 - WARNING - Mapping file for ticker 'f' not found at mapping/f.yaml
+2025-05-20 21:50:43,155 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:50:43,560 - INFO - ✅ Successfully processed filings/f_20241231_10-K.xml, output saved to output/output_f_20250520_215043.xlsx
+2025-05-20 21:50:43,561 - INFO - Start processing file: filings/aapl_20230930_10-K.xml for ticker: aapl
+2025-05-20 21:50:43,676 - INFO - ✅ Successfully processed filings/aapl_20230930_10-K.xml, output saved to output/output_aapl_20250520_215043.xlsx
+2025-05-20 21:50:43,676 - INFO - Start processing file: filings/nvda_20240128_10-K.xml for ticker: nvda
+2025-05-20 21:50:43,676 - WARNING - Mapping file for ticker 'nvda' not found at mapping/nvda.yaml
+2025-05-20 21:50:43,676 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:50:43,828 - INFO - ✅ Successfully processed filings/nvda_20240128_10-K.xml, output saved to output/output_nvda_20250520_215043.xlsx
+2025-05-20 21:50:43,828 - INFO - Start processing file: filings/f_20221231_10-K.xml for ticker: f
+2025-05-20 21:50:43,828 - WARNING - Mapping file for ticker 'f' not found at mapping/f.yaml
+2025-05-20 21:50:43,828 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:50:44,262 - INFO - ✅ Successfully processed filings/f_20221231_10-K.xml, output saved to output/output_f_20250520_215043.xlsx
+2025-05-20 21:50:44,263 - INFO - Start processing file: filings/nvda_20230129_10-K.xml for ticker: nvda
+2025-05-20 21:50:44,263 - WARNING - Mapping file for ticker 'nvda' not found at mapping/nvda.yaml
+2025-05-20 21:50:44,263 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:50:44,401 - INFO - ✅ Successfully processed filings/nvda_20230129_10-K.xml, output saved to output/output_nvda_20250520_215044.xlsx
+2025-05-20 21:54:28,646 - INFO - Start processing file: filings/trv_20221231_10-K.xml for ticker: trv
+2025-05-20 21:54:28,646 - WARNING - Mapping file for ticker 'trv' not found at mapping/trv.yaml
+2025-05-20 21:54:28,646 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:54:29,112 - INFO - ✅ Successfully processed filings/trv_20221231_10-K.xml, output saved to output/output_trv_2022_10-K_20250520_215428xlsx
+2025-05-20 21:54:29,113 - INFO - Start processing file: filings/aapl_20220924_10-K.xml for ticker: aapl
+2025-05-20 21:54:29,232 - INFO - ✅ Successfully processed filings/aapl_20220924_10-K.xml, output saved to output/output_aapl_2022_10-K_20250520_215429xlsx
+2025-05-20 21:54:29,232 - INFO - Start processing file: filings/met_20221231_10-K.xml for ticker: met
+2025-05-20 21:54:29,232 - WARNING - Mapping file for ticker 'met' not found at mapping/met.yaml
+2025-05-20 21:54:29,232 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:54:30,040 - INFO - ✅ Successfully processed filings/met_20221231_10-K.xml, output saved to output/output_met_2022_10-K_20250520_215429xlsx
+2025-05-20 21:54:30,041 - INFO - Start processing file: filings/gs_20221231_10-k.xml for ticker: gs
+2025-05-20 21:54:30,788 - INFO - ✅ Successfully processed filings/gs_20221231_10-k.xml, output saved to output/output_gs_2022_10-k_20250520_215430xlsx
+2025-05-20 21:54:30,789 - INFO - Start processing file: filings/trv_20241231_10-K.xml for ticker: trv
+2025-05-20 21:54:30,789 - WARNING - Mapping file for ticker 'trv' not found at mapping/trv.yaml
+2025-05-20 21:54:30,789 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:54:31,227 - INFO - ✅ Successfully processed filings/trv_20241231_10-K.xml, output saved to output/output_trv_2024_10-K_20250520_215430xlsx
+2025-05-20 21:54:31,228 - INFO - Start processing file: filings/trv_20231231_10-K.xml for ticker: trv
+2025-05-20 21:54:31,228 - WARNING - Mapping file for ticker 'trv' not found at mapping/trv.yaml
+2025-05-20 21:54:31,228 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:54:31,652 - INFO - ✅ Successfully processed filings/trv_20231231_10-K.xml, output saved to output/output_trv_2023_10-K_20250520_215431xlsx
+2025-05-20 21:54:31,653 - INFO - Start processing file: filings/met_20241231_10-K.xml for ticker: met
+2025-05-20 21:54:31,653 - WARNING - Mapping file for ticker 'met' not found at mapping/met.yaml
+2025-05-20 21:54:31,653 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:54:32,656 - INFO - ✅ Successfully processed filings/met_20241231_10-K.xml, output saved to output/output_met_2024_10-K_20250520_215431xlsx
+2025-05-20 21:54:32,658 - INFO - Start processing file: filings/met_20231231_10-K.xml for ticker: met
+2025-05-20 21:54:32,658 - WARNING - Mapping file for ticker 'met' not found at mapping/met.yaml
+2025-05-20 21:54:32,658 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:54:33,756 - INFO - ✅ Successfully processed filings/met_20231231_10-K.xml, output saved to output/output_met_2023_10-K_20250520_215432xlsx
+2025-05-20 21:54:33,758 - INFO - Start processing file: filings/gs_20241231_10-K.xml for ticker: gs
+2025-05-20 21:54:34,459 - INFO - ✅ Successfully processed filings/gs_20241231_10-K.xml, output saved to output/output_gs_2024_10-K_20250520_215433xlsx
+2025-05-20 21:54:34,460 - INFO - Start processing file: filings/gs_20231231_10-K.xml for ticker: gs
+2025-05-20 21:54:35,171 - INFO - ✅ Successfully processed filings/gs_20231231_10-K.xml, output saved to output/output_gs_2023_10-K_20250520_215434xlsx
+2025-05-20 21:54:35,173 - INFO - Start processing file: filings/spg_20241231_10-K.xml for ticker: spg
+2025-05-20 21:54:35,173 - WARNING - Mapping file for ticker 'spg' not found at mapping/spg.yaml
+2025-05-20 21:54:35,173 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:54:35,483 - INFO - ✅ Successfully processed filings/spg_20241231_10-K.xml, output saved to output/output_spg_2024_10-K_20250520_215435xlsx
+2025-05-20 21:54:35,483 - INFO - Start processing file: filings/spg_20231231_10-K.xml for ticker: spg
+2025-05-20 21:54:35,483 - WARNING - Mapping file for ticker 'spg' not found at mapping/spg.yaml
+2025-05-20 21:54:35,483 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:54:35,765 - INFO - ✅ Successfully processed filings/spg_20231231_10-K.xml, output saved to output/output_spg_2023_10-K_20250520_215435xlsx
+2025-05-20 21:54:35,766 - INFO - Start processing file: filings/aapl_20240928_10-K.xml for ticker: aapl
+2025-05-20 21:54:35,860 - INFO - ✅ Successfully processed filings/aapl_20240928_10-K.xml, output saved to output/output_aapl_2024_10-K_20250520_215435xlsx
+2025-05-20 21:54:35,860 - INFO - Start processing file: filings/nvda_20250126_10-K.xml for ticker: nvda
+2025-05-20 21:54:35,860 - WARNING - Mapping file for ticker 'nvda' not found at mapping/nvda.yaml
+2025-05-20 21:54:35,860 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:54:35,993 - INFO - ✅ Successfully processed filings/nvda_20250126_10-K.xml, output saved to output/output_nvda_2025_10-K_20250520_215435xlsx
+2025-05-20 21:54:35,993 - INFO - Start processing file: filings/spg_20221231_10-K.xml for ticker: spg
+2025-05-20 21:54:35,993 - WARNING - Mapping file for ticker 'spg' not found at mapping/spg.yaml
+2025-05-20 21:54:35,993 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:54:36,262 - INFO - ✅ Successfully processed filings/spg_20221231_10-K.xml, output saved to output/output_spg_2022_10-K_20250520_215436xlsx
+2025-05-20 21:54:36,263 - INFO - Start processing file: filings/f_20231231_10-K.xml for ticker: f
+2025-05-20 21:54:36,263 - WARNING - Mapping file for ticker 'f' not found at mapping/f.yaml
+2025-05-20 21:54:36,263 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:54:36,648 - INFO - ✅ Successfully processed filings/f_20231231_10-K.xml, output saved to output/output_f_2023_10-K_20250520_215436xlsx
+2025-05-20 21:54:36,649 - INFO - Start processing file: filings/f_20241231_10-K.xml for ticker: f
+2025-05-20 21:54:36,649 - WARNING - Mapping file for ticker 'f' not found at mapping/f.yaml
+2025-05-20 21:54:36,649 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:54:37,042 - INFO - ✅ Successfully processed filings/f_20241231_10-K.xml, output saved to output/output_f_2024_10-K_20250520_215436xlsx
+2025-05-20 21:54:37,042 - INFO - Start processing file: filings/aapl_20230930_10-K.xml for ticker: aapl
+2025-05-20 21:54:37,140 - INFO - ✅ Successfully processed filings/aapl_20230930_10-K.xml, output saved to output/output_aapl_2023_10-K_20250520_215437xlsx
+2025-05-20 21:54:37,140 - INFO - Start processing file: filings/nvda_20240128_10-K.xml for ticker: nvda
+2025-05-20 21:54:37,140 - WARNING - Mapping file for ticker 'nvda' not found at mapping/nvda.yaml
+2025-05-20 21:54:37,140 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:54:37,272 - INFO - ✅ Successfully processed filings/nvda_20240128_10-K.xml, output saved to output/output_nvda_2024_10-K_20250520_215437xlsx
+2025-05-20 21:54:37,272 - INFO - Start processing file: filings/f_20221231_10-K.xml for ticker: f
+2025-05-20 21:54:37,272 - WARNING - Mapping file for ticker 'f' not found at mapping/f.yaml
+2025-05-20 21:54:37,272 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:54:37,695 - INFO - ✅ Successfully processed filings/f_20221231_10-K.xml, output saved to output/output_f_2022_10-K_20250520_215437xlsx
+2025-05-20 21:54:37,696 - INFO - Start processing file: filings/nvda_20230129_10-K.xml for ticker: nvda
+2025-05-20 21:54:37,696 - WARNING - Mapping file for ticker 'nvda' not found at mapping/nvda.yaml
+2025-05-20 21:54:37,696 - INFO - Fallback to default.yaml mapping
+2025-05-20 21:54:37,835 - INFO - ✅ Successfully processed filings/nvda_20230129_10-K.xml, output saved to output/output_nvda_2023_10-K_20250520_215437xlsx
+2025-05-20 22:00:07,258 - INFO - Start processing file: filings/trv_20221231_10-K.xml for ticker: trv
+2025-05-20 22:00:07,258 - WARNING - Mapping file for ticker 'trv' not found at mapping/trv.yaml
+2025-05-20 22:00:07,258 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:00:07,724 - INFO - ✅ Successfully processed filings/trv_20221231_10-K.xml, output saved to output/output_trv_2022_10-K_20250520_220007.xlsx
+2025-05-20 22:00:07,725 - INFO - Start processing file: filings/aapl_20220924_10-K.xml for ticker: aapl
+2025-05-20 22:00:07,845 - INFO - ✅ Successfully processed filings/aapl_20220924_10-K.xml, output saved to output/output_aapl_2022_10-K_20250520_220007.xlsx
+2025-05-20 22:00:07,845 - INFO - Start processing file: filings/met_20221231_10-K.xml for ticker: met
+2025-05-20 22:00:07,845 - WARNING - Mapping file for ticker 'met' not found at mapping/met.yaml
+2025-05-20 22:00:07,845 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:00:08,634 - INFO - ✅ Successfully processed filings/met_20221231_10-K.xml, output saved to output/output_met_2022_10-K_20250520_220008.xlsx
+2025-05-20 22:00:08,635 - INFO - Start processing file: filings/gs_20221231_10-k.xml for ticker: gs
+2025-05-20 22:00:09,464 - INFO - ✅ Successfully processed filings/gs_20221231_10-k.xml, output saved to output/output_gs_2022_10-k_20250520_220008.xlsx
+2025-05-20 22:00:09,465 - INFO - Start processing file: filings/trv_20241231_10-K.xml for ticker: trv
+2025-05-20 22:00:09,465 - WARNING - Mapping file for ticker 'trv' not found at mapping/trv.yaml
+2025-05-20 22:00:09,465 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:00:09,991 - INFO - ✅ Successfully processed filings/trv_20241231_10-K.xml, output saved to output/output_trv_2024_10-K_20250520_220009.xlsx
+2025-05-20 22:00:09,992 - INFO - Start processing file: filings/trv_20231231_10-K.xml for ticker: trv
+2025-05-20 22:00:09,992 - WARNING - Mapping file for ticker 'trv' not found at mapping/trv.yaml
+2025-05-20 22:00:09,992 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:00:10,444 - INFO - ✅ Successfully processed filings/trv_20231231_10-K.xml, output saved to output/output_trv_2023_10-K_20250520_220010.xlsx
+2025-05-20 22:00:10,445 - INFO - Start processing file: filings/met_20241231_10-K.xml for ticker: met
+2025-05-20 22:00:10,445 - WARNING - Mapping file for ticker 'met' not found at mapping/met.yaml
+2025-05-20 22:00:10,445 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:00:11,468 - INFO - ✅ Successfully processed filings/met_20241231_10-K.xml, output saved to output/output_met_2024_10-K_20250520_220010.xlsx
+2025-05-20 22:00:11,470 - INFO - Start processing file: filings/met_20231231_10-K.xml for ticker: met
+2025-05-20 22:00:11,470 - WARNING - Mapping file for ticker 'met' not found at mapping/met.yaml
+2025-05-20 22:00:11,470 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:00:12,806 - INFO - ✅ Successfully processed filings/met_20231231_10-K.xml, output saved to output/output_met_2023_10-K_20250520_220011.xlsx
+2025-05-20 22:00:12,809 - INFO - Start processing file: filings/gs_20241231_10-K.xml for ticker: gs
+2025-05-20 22:00:13,602 - INFO - ✅ Successfully processed filings/gs_20241231_10-K.xml, output saved to output/output_gs_2024_10-K_20250520_220013.xlsx
+2025-05-20 22:00:13,604 - INFO - Start processing file: filings/gs_20231231_10-K.xml for ticker: gs
+2025-05-20 22:00:14,397 - INFO - ✅ Successfully processed filings/gs_20231231_10-K.xml, output saved to output/output_gs_2023_10-K_20250520_220013.xlsx
+2025-05-20 22:00:14,398 - INFO - Start processing file: filings/spg_20241231_10-K.xml for ticker: spg
+2025-05-20 22:00:14,398 - WARNING - Mapping file for ticker 'spg' not found at mapping/spg.yaml
+2025-05-20 22:00:14,398 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:00:14,708 - INFO - ✅ Successfully processed filings/spg_20241231_10-K.xml, output saved to output/output_spg_2024_10-K_20250520_220014.xlsx
+2025-05-20 22:00:14,708 - INFO - Start processing file: filings/spg_20231231_10-K.xml for ticker: spg
+2025-05-20 22:00:14,708 - WARNING - Mapping file for ticker 'spg' not found at mapping/spg.yaml
+2025-05-20 22:00:14,708 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:00:15,001 - INFO - ✅ Successfully processed filings/spg_20231231_10-K.xml, output saved to output/output_spg_2023_10-K_20250520_220014.xlsx
+2025-05-20 22:00:15,001 - INFO - Start processing file: filings/aapl_20240928_10-K.xml for ticker: aapl
+2025-05-20 22:00:15,097 - INFO - ✅ Successfully processed filings/aapl_20240928_10-K.xml, output saved to output/output_aapl_2024_10-K_20250520_220015.xlsx
+2025-05-20 22:00:15,097 - INFO - Start processing file: filings/nvda_20250126_10-K.xml for ticker: nvda
+2025-05-20 22:00:15,097 - WARNING - Mapping file for ticker 'nvda' not found at mapping/nvda.yaml
+2025-05-20 22:00:15,097 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:00:15,236 - INFO - ✅ Successfully processed filings/nvda_20250126_10-K.xml, output saved to output/output_nvda_2025_10-K_20250520_220015.xlsx
+2025-05-20 22:00:15,237 - INFO - Start processing file: filings/spg_20221231_10-K.xml for ticker: spg
+2025-05-20 22:00:15,237 - WARNING - Mapping file for ticker 'spg' not found at mapping/spg.yaml
+2025-05-20 22:00:15,237 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:00:15,515 - INFO - ✅ Successfully processed filings/spg_20221231_10-K.xml, output saved to output/output_spg_2022_10-K_20250520_220015.xlsx
+2025-05-20 22:00:15,515 - INFO - Start processing file: filings/f_20231231_10-K.xml for ticker: f
+2025-05-20 22:00:15,515 - WARNING - Mapping file for ticker 'f' not found at mapping/f.yaml
+2025-05-20 22:00:15,515 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:00:15,904 - INFO - ✅ Successfully processed filings/f_20231231_10-K.xml, output saved to output/output_f_2023_10-K_20250520_220015.xlsx
+2025-05-20 22:00:15,905 - INFO - Start processing file: filings/f_20241231_10-K.xml for ticker: f
+2025-05-20 22:00:15,905 - WARNING - Mapping file for ticker 'f' not found at mapping/f.yaml
+2025-05-20 22:00:15,905 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:00:16,296 - INFO - ✅ Successfully processed filings/f_20241231_10-K.xml, output saved to output/output_f_2024_10-K_20250520_220015.xlsx
+2025-05-20 22:00:16,297 - INFO - Start processing file: filings/aapl_20230930_10-K.xml for ticker: aapl
+2025-05-20 22:00:16,394 - INFO - ✅ Successfully processed filings/aapl_20230930_10-K.xml, output saved to output/output_aapl_2023_10-K_20250520_220016.xlsx
+2025-05-20 22:00:16,394 - INFO - Start processing file: filings/nvda_20240128_10-K.xml for ticker: nvda
+2025-05-20 22:00:16,394 - WARNING - Mapping file for ticker 'nvda' not found at mapping/nvda.yaml
+2025-05-20 22:00:16,394 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:00:16,530 - INFO - ✅ Successfully processed filings/nvda_20240128_10-K.xml, output saved to output/output_nvda_2024_10-K_20250520_220016.xlsx
+2025-05-20 22:00:16,530 - INFO - Start processing file: filings/f_20221231_10-K.xml for ticker: f
+2025-05-20 22:00:16,530 - WARNING - Mapping file for ticker 'f' not found at mapping/f.yaml
+2025-05-20 22:00:16,530 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:00:16,938 - INFO - ✅ Successfully processed filings/f_20221231_10-K.xml, output saved to output/output_f_2022_10-K_20250520_220016.xlsx
+2025-05-20 22:00:16,939 - INFO - Start processing file: filings/nvda_20230129_10-K.xml for ticker: nvda
+2025-05-20 22:00:16,939 - WARNING - Mapping file for ticker 'nvda' not found at mapping/nvda.yaml
+2025-05-20 22:00:16,939 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:00:17,088 - INFO - ✅ Successfully processed filings/nvda_20230129_10-K.xml, output saved to output/output_nvda_2023_10-K_20250520_220016.xlsx
+2025-05-20 22:05:39,720 - INFO - Start processing file: filings/trv_20241231_10-K.xml for ticker: trv
+2025-05-20 22:05:39,720 - WARNING - Mapping file for ticker 'trv' not found at mapping/trv.yaml
+2025-05-20 22:05:39,720 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:05:40,175 - INFO - ✅ Successfully processed filings/trv_20241231_10-K.xml, output saved to output/output_trv_2024_10-K_20250520_220539.xlsx
+2025-05-20 22:05:40,176 - INFO - Start processing file: filings/met_20241231_10-K.xml for ticker: met
+2025-05-20 22:05:40,176 - WARNING - Mapping file for ticker 'met' not found at mapping/met.yaml
+2025-05-20 22:05:40,176 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:05:41,193 - INFO - ✅ Successfully processed filings/met_20241231_10-K.xml, output saved to output/output_met_2024_10-K_20250520_220540.xlsx
+2025-05-20 22:05:41,195 - INFO - Start processing file: filings/gs_20241231_10-K.xml for ticker: gs
+2025-05-20 22:05:41,195 - WARNING - Mapping file for ticker 'gs' not found at mapping/gs.yaml
+2025-05-20 22:05:41,195 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:05:41,892 - INFO - ✅ Successfully processed filings/gs_20241231_10-K.xml, output saved to output/output_gs_2024_10-K_20250520_220541.xlsx
+2025-05-20 22:05:41,893 - INFO - Start processing file: filings/spg_20241231_10-K.xml for ticker: spg
+2025-05-20 22:05:41,894 - WARNING - Mapping file for ticker 'spg' not found at mapping/spg.yaml
+2025-05-20 22:05:41,894 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:05:42,198 - INFO - ✅ Successfully processed filings/spg_20241231_10-K.xml, output saved to output/output_spg_2024_10-K_20250520_220541.xlsx
+2025-05-20 22:05:42,198 - INFO - Start processing file: filings/aapl_20240928_10-K.xml for ticker: aapl
+2025-05-20 22:05:42,198 - WARNING - Mapping file for ticker 'aapl' not found at mapping/aapl.yaml
+2025-05-20 22:05:42,198 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:05:42,289 - INFO - ✅ Successfully processed filings/aapl_20240928_10-K.xml, output saved to output/output_aapl_2024_10-K_20250520_220542.xlsx
+2025-05-20 22:05:42,289 - INFO - Start processing file: filings/nvda_20250126_10-K.xml for ticker: nvda
+2025-05-20 22:05:42,289 - WARNING - Mapping file for ticker 'nvda' not found at mapping/nvda.yaml
+2025-05-20 22:05:42,289 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:05:42,413 - INFO - ✅ Successfully processed filings/nvda_20250126_10-K.xml, output saved to output/output_nvda_2025_10-K_20250520_220542.xlsx
+2025-05-20 22:05:42,413 - INFO - Start processing file: filings/f_20241231_10-K.xml for ticker: f
+2025-05-20 22:05:42,413 - WARNING - Mapping file for ticker 'f' not found at mapping/f.yaml
+2025-05-20 22:05:42,413 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:05:42,826 - INFO - ✅ Successfully processed filings/f_20241231_10-K.xml, output saved to output/output_f_2024_10-K_20250520_220542.xlsx
+2025-05-20 22:09:04,682 - INFO - Start processing file: filings/trv_20241231_10-K.xml for ticker: trv
+2025-05-20 22:09:04,683 - WARNING - Mapping file for ticker 'trv' not found at mapping/trv.yaml
+2025-05-20 22:09:04,683 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:09:05,133 - INFO - ✅ Successfully processed filings/trv_20241231_10-K.xml, output saved to output/output_trv_2024_10-K_20250520_220904.xlsx
+2025-05-20 22:09:05,134 - INFO - Start processing file: filings/met_20241231_10-K.xml for ticker: met
+2025-05-20 22:09:05,134 - WARNING - Mapping file for ticker 'met' not found at mapping/met.yaml
+2025-05-20 22:09:05,134 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:09:06,194 - INFO - ✅ Successfully processed filings/met_20241231_10-K.xml, output saved to output/output_met_2024_10-K_20250520_220905.xlsx
+2025-05-20 22:09:06,196 - INFO - Start processing file: filings/gs_20241231_10-K.xml for ticker: gs
+2025-05-20 22:09:06,197 - WARNING - Mapping file for ticker 'gs' not found at mapping/gs.yaml
+2025-05-20 22:09:06,197 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:09:06,967 - INFO - ✅ Successfully processed filings/gs_20241231_10-K.xml, output saved to output/output_gs_2024_10-K_20250520_220906.xlsx
+2025-05-20 22:09:06,969 - INFO - Start processing file: filings/spg_20241231_10-K.xml for ticker: spg
+2025-05-20 22:09:06,969 - WARNING - Mapping file for ticker 'spg' not found at mapping/spg.yaml
+2025-05-20 22:09:06,969 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:09:07,335 - INFO - ✅ Successfully processed filings/spg_20241231_10-K.xml, output saved to output/output_spg_2024_10-K_20250520_220907.xlsx
+2025-05-20 22:09:07,336 - INFO - Start processing file: filings/aapl_20240928_10-K.xml for ticker: aapl
+2025-05-20 22:09:07,336 - WARNING - Mapping file for ticker 'aapl' not found at mapping/aapl.yaml
+2025-05-20 22:09:07,336 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:09:07,441 - INFO - ✅ Successfully processed filings/aapl_20240928_10-K.xml, output saved to output/output_aapl_2024_10-K_20250520_220907.xlsx
+2025-05-20 22:09:07,441 - INFO - Start processing file: filings/nvda_20250126_10-K.xml for ticker: nvda
+2025-05-20 22:09:07,441 - WARNING - Mapping file for ticker 'nvda' not found at mapping/nvda.yaml
+2025-05-20 22:09:07,441 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:09:07,572 - INFO - ✅ Successfully processed filings/nvda_20250126_10-K.xml, output saved to output/output_nvda_2025_10-K_20250520_220907.xlsx
+2025-05-20 22:09:07,573 - INFO - Start processing file: filings/f_20241231_10-K.xml for ticker: f
+2025-05-20 22:09:07,573 - WARNING - Mapping file for ticker 'f' not found at mapping/f.yaml
+2025-05-20 22:09:07,573 - INFO - Fallback to default.yaml mapping
+2025-05-20 22:09:07,979 - INFO - ✅ Successfully processed filings/f_20241231_10-K.xml, output saved to output/output_f_2024_10-K_20250520_220907.xlsx

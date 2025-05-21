@@ -1,0 +1,99 @@
+fields:
+  TotalAssets:
+    tags:
+      - us-gaap:Assets
+    context: instant
+    qa_group: BalanceSheet
+
+  TotalLiabilities:
+    tags:
+      - us-gaap:Liabilities
+    context: instant
+    qa_group: BalanceSheet
+
+  TotalEquity:
+    tags:
+      - us-gaap:StockholdersEquity
+      - us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest
+    context: instant
+    qa_group: BalanceSheet
+
+  Deposits:
+    tags:
+      - us-gaap:DepositsLiabilities
+      - us-gaap:TimeDeposits
+    context: instant
+    qa_group: BalanceSheet
+
+  LoansReceivable:
+    tags:
+      - us-gaap:LoansReceivableNetReportedAmount
+      - us-gaap:LoansAndLeasesReceivableNetReportedAmount
+    context: instant
+    qa_group: BalanceSheet
+
+  InterestIncome:
+    tags:
+      - us-gaap:InterestIncome
+      - us-gaap:InterestAndDividendIncomeOperating
+    context: duration
+    qa_group: IncomeStatement
+
+  InterestExpense:
+    tags:
+      - us-gaap:InterestExpense
+      - us-gaap:InterestExpenseOperating
+    context: duration
+    qa_group: IncomeStatement
+
+  ProvisionForLoanLosses:
+    tags:
+      - us-gaap:ProvisionForLoanAndLeaseLosses
+    context: duration
+    qa_group: IncomeStatement
+
+  NonInterestIncome:
+    tags:
+      - us-gaap:NoninterestIncome
+    context: duration
+    qa_group: IncomeStatement
+
+  NonInterestExpense:
+    tags:
+      - us-gaap:NoninterestExpense
+    context: duration
+    qa_group: IncomeStatement
+
+  NetIncome:
+    tags:
+      - us-gaap:NetIncomeLoss
+    context: duration
+    qa_group: IncomeStatement
+
+  OperatingCashFlow:
+    tags:
+      - us-gaap:NetCashProvidedByUsedInOperatingActivities
+      - us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+    context: duration
+    qa_group: CashFlowStatement
+
+  InvestingCashFlow:
+    tags:
+      - us-gaap:NetCashProvidedByUsedInInvestingActivities
+      - us-gaap:NetCashProvidedByUsedInInvestingActivitiesContinuingOperations
+    context: duration
+    qa_group: CashFlowStatement
+
+  FinancingCashFlow:
+    tags:
+      - us-gaap:NetCashProvidedByUsedInFinancingActivities
+      - us-gaap:NetCashProvidedByUsedInFinancingActivitiesContinuingOperations
+    context: duration
+    qa_group: CashFlowStatement
+
+  CashAndCashEquivalents:
+    tags:
+      - us-gaap:CashAndCashEquivalentsAtCarryingValue
+      - us-gaap:CashAndDueFromBanks
+    context: instant
+    qa_group: BalanceSheet
